@@ -2,9 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+<!-- @format -->
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Who am I
+
+Cool. I'm Stan and I'm front end developer in Taiwan, through this blog I want to share my knowledge and skill for the people.
+
+the other hand I can memorize my coding record.
 
 ## Getting Started
 
